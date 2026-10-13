@@ -20,15 +20,15 @@ Score each dimension 0–5, then compute: `(relevance*25 + audience_value*25 + t
 ## Research rules
 1. Capture exact source URLs, publication or upload date, and accessed date; differentiate original evidence from commentary.
 2. Favor product release notes, documentation, source repos, demos and firsthand creator artifacts. Never fabricate engagement or trend data.
-3. Separate timely news from evergreen educational value. Avoid overly broad themes like 'AI will replace designers' without a distinct angle and proof.
+3. Separate timely news from evergreen educational value. Avoid broad claims without a distinct angle and evidence relevant to the configured channels.
 4. Analyze originality and audience payoff. If the idea is derivative, change the central framing instead of copying a creator's script.
 5. Protect employer confidentiality: do not quote internal projects, proprietary screens, or unreleased product details. Use publicly documented examples or generalized experience.
 6. If connected research APIs are missing, produce the best feasible manual/web research, state limitations, and name missing access.
 7. Never automate publishing or claim to have published.
 
 ## Scripts
-- Primary voice: credible, curious, conversational and practical; grounded in a designer testing tools, not generic AI hype.
-- Assume anonymous creator: screen recordings, demos, interface annotations, diagrams and kinetic typography instead of face camera.
+- Primary voice: credible, curious, conversational and practical; adapt to the channel’s observed voice and niche; do not assume a profession or topic.
+- Choose visuals and presentation from observed channel formats and user preferences. Do not assume anonymous or faceless content.
 - 35–50 sec preferred, sharp first 2 seconds, claim → evidence/demonstration → useful takeaway. No fabricated personal testing.
 - Label untested ideas as hypotheses and distinguish observed from inferred outcomes.
 - Reuse `yt-script`, `yt-viral`, `yt-plan` and `yt-package` skills when installed and relevant, but preserve research provenance.
